@@ -1,8 +1,8 @@
 ### Hello world 👋
 
-![Deva's GitHub stats](https://github-readme-stats.vercel.app/api?username=devaem&show_icons=true&theme=dracula)
+<img align= "left" width="47%" ![Deva's GitHub stats](https://github-readme-stats.vercel.app/api?username=devaem&show_icons=true&theme=dracula) />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devaem&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<img align= "left" width="47%" [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devaem&layout=compact&theme=dracula)]/>
 
 <!--
 **devaem/devaem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
