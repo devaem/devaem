@@ -1,6 +1,5 @@
-### Hello world 👋
+## Hello world 👋
 
-<hr>
 
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devaem&show_icons=true&theme=dracula" />
