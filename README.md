@@ -6,8 +6,7 @@
 
 <img align= "left" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devaem&layout=compact&theme=dracula" />
 
-<br>
-<br>
+
 </p>
 
 ### Connect with Me
@@ -22,9 +21,6 @@
 
 [<img align="left" alt="youtube" src="https://img.shields.io/badge/youtube-%23FF0001.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCTitu8EAOHsLhuQesBdYE8w)
 
-
-<br>
-<br>
 
 <!--
 **devaem/devaem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
