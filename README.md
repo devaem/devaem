@@ -3,7 +3,7 @@
 <hr>
 
 <p align="left">
-  <img align= "left" width="52%" src="https://github-readme-stats.vercel.app/api?username=devaem&show_icons=true&theme=dracula" />
+  <img align= "left" width="50%" src="https://github-readme-stats.vercel.app/api?username=devaem&show_icons=true&theme=dracula" />
   <img align= "left" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devaem&layout=compact&theme=dracula" />
 </p>
 
