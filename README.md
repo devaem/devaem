@@ -25,7 +25,7 @@
 
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/dusselfdorf_)
 
-[<img align="left" alt="discord" src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logoColor=white&logo=discord" />](https://twitter.com/dusselfdorf#4671)
+[<img align="left" alt="discord" src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logoColor=white&logo=discord" />](https://discord.com/channels/dusselfdorf#4671)
 
 [<img align="left" alt="instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/devaem_)
 
