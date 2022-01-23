@@ -2,7 +2,7 @@
 
 <img align= "left" width="51%" src="https://github-readme-stats.vercel.app/api?username=devaem&show_icons=true&theme=dracula" />
 
-<img align= "left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devaem&layout=compact&theme=dracula" />
+<img align= "left" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devaem&layout=compact&theme=dracula" />
 
 <!--
 **devaem/devaem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
