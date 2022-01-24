@@ -2,8 +2,8 @@
 
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devaem&show_icons=true&theme=dracula" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devaem&layout=compact&theme=dracula" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=devaem&show_icons=true&theme=dracula" />
+  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devaem&layout=compact&theme=dracula" />
 </p>
 
 ### Connect with Me
