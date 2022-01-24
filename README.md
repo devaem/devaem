@@ -2,7 +2,7 @@
 
 
 <p align="left">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=devaem&show_icons=true&theme=dracula" />
+  <img width="51%" src="https://github-readme-stats.vercel.app/api?username=devaem&show_icons=true&theme=dracula" />
   <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devaem&layout=compact&theme=dracula" />
 </p>
 
